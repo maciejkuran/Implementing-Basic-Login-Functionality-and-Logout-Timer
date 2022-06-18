@@ -8,10 +8,10 @@ In this exercise, I am implementing basic log-in functionality and an automatic 
 data written directly in the source code. The <b>flowchart</b> shown below explains the entire concept of
 this exercise. 
 
-![log in functionality and log out timer](https://user-images.githubusercontent.com/103118542/174449601-870a643b-3c03-40da-9472-fb5b6d13bef5.png)
-
 <b>Check out and test this functionality.</b>
 ➡️ https://maciejkuran.com/blog/implementing-login-functionality-and-logout-timer
+
+![log in functionality and log out timer](https://user-images.githubusercontent.com/103118542/174449601-870a643b-3c03-40da-9472-fb5b6d13bef5.png)
 
 
 ![Implementing basic log-in functionality and an automatic log-out timer](https://user-images.githubusercontent.com/103118542/174449436-2c81ae87-7e58-4cda-9e8b-82e22df0988d.png)
