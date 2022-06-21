@@ -67,3 +67,17 @@ const timerClock = () => {
 loginBtn.addEventListener('click', () => {
   logIn(users);
 });
+
+
+//Smooth scrolling to login area
+const logInForm = document.querySelector('#log-in-form');
+const scrollBtn = document.querySelector('.check--login-functionality');
+
+scrollBtn.addEventListener('click', (e) => {
+  const logInFormCoords = logInForm.getBoundingClientRect();
+  window.scrollTo({
+    left: logInFormCoords.left + window.pageXOffset,
+    top: logInFormCoords.top + window.pageYOffset,
+    behavior: 'smooth',
+  });
+});
