@@ -9,12 +9,12 @@ data written directly in the source code. The <b>flowchart</b> shown below expla
 this exercise.
 
 <b>Check out and test this functionality.</b>
-➡️ https://maciejkuran.com/blog/implementing-login-functionality-and-logout-timer
-
-![log in functionality and log out timer](https://user-images.githubusercontent.com/103118542/174449601-870a643b-3c03-40da-9472-fb5b6d13bef5.png)
+➡️ [Live](https://maciejkuran.com/blog/implementing-login-functionality-and-logout-timer)
 
 <p align="center">
       <img src="/img/login-ui.png">
     </p>
+
+![log in functionality and log out timer](https://user-images.githubusercontent.com/103118542/174449601-870a643b-3c03-40da-9472-fb5b6d13bef5.png)
 
 > This exercise is part of my portfolio website - [maciejkuran.com repository](https://github.com/maciejkuran/maciejkuran.com).
